@@ -1,0 +1,6 @@
+{
+    "domain": "edulink",
+    "name": "EduLink",
+    "version": "0.1.0",
+    "config_flow": true
+  }
